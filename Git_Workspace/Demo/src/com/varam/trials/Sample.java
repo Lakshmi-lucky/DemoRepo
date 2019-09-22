@@ -6,6 +6,7 @@ public class Sample {
 		
 		System.out.println("Trying to understand git...");
 		System.out.println("Editing from github to pull this to local..");
+		System.out.println("editing in local to push to github..");
 		
 	}
 }
